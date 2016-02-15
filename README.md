@@ -1,2 +1,2 @@
 # hello-world
-first repository
+I like hiking, cats, dogs, and ice cream.
